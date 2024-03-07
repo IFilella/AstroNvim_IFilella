@@ -111,6 +111,7 @@ nvim
 
 Enter `:LspInstall` followed by the name of the server you want to install<br>
 Example: `:LspInstall pyright`
+
 Note: If error install node in MacOS (brew install node) or npm in Linux (sudo apt-get install npm)
 
 #### Install language parser
