@@ -88,6 +88,9 @@ AstroNvim is an aesthetically pleasing and feature-rich neovim config that is ex
 
 ### Linux/Mac OS (Unix)
 
+#### Install neovim
+Install neovim from [https://github.com/neovim](https://github.com/neovim/neovim/blob/master/INSTALL.md)
+
 #### Make a backup of your current nvim and shared folder
 
 ```shell
