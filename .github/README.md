@@ -110,7 +110,7 @@ nvim
 #### Install LSP
 
 Enter `:LspInstall` followed by the name of the server you want to install<br>
-Example: `:LspInstall pyright`
+Example: `:LspInstall jedi-language-server`
 
 Note: If error install node in MacOS (brew install node) or npm in Linux (sudo apt-get install npm)
 
