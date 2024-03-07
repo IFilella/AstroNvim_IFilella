@@ -142,6 +142,19 @@ Run `:AstroUpdate` to get the latest updates from the repository<br>
 
 Run `:AstroUpdatePackages` (`<leader>pa`) to update both Neovim plugins and Mason packages
 
+## Package Instalation with Mason
+
+```
+Mason
+```
+
+```
+MasonInstall <plugin>
+```
+
+Intersting plugins:
+- Flake8: Syntaxis checker
+
 ## 🗒️ Links
 
 [AstroNvim Website](https://astronvim.com)
