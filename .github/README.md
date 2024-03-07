@@ -102,13 +102,6 @@ git clone --depth 1 https://github.com/IFilella/AstroNvim_IFilella ~/.config/nvi
 nvim
 ```
 
-#### Clone the repository
-
-```pwsh
-git clone --depth 1 https://github.com/AstroNvim/AstroNvim $env:LOCALAPPDATA\nvim
-nvim
-```
-
 ## 📦 Basic Setup
 
 #### Install LSP
