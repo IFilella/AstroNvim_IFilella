@@ -145,14 +145,14 @@ Run `:AstroUpdatePackages` (`<leader>pa`) to update both Neovim plugins and Maso
 ## Package Instalation with Mason
 
 ```
-Mason
+:Mason
 ```
 
 ```
-MasonInstall <plugin>
+:MasonInstall <plugin>
 ```
 
-Intersting plugins:
+Plugins:
 - Flake8: Syntaxis checker
 
 ## 🗒️ Links
