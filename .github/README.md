@@ -48,7 +48,15 @@ nvim
 Enter `:LspInstall` followed by the name of the server you want to install<br>
 Example: `:LspInstall jedi_language_server`
 
-Note: If error install node in MacOS (brew install node) or npm in Linux (sudo apt-get install npm)
+Note: If error during Lsp installation execute:
+- MacOS:
+```
+brew install node
+```
+- Linux
+```
+sudo apt-get install npm
+```
 
 #### Install language parser
 
